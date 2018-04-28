@@ -1,4 +1,4 @@
-package com.uctech.medmanager;
+package com.example.uche.med_manager;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
